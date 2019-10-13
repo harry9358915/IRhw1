@@ -1,2 +1,3 @@
-# IRhw1
-資料檢索 作業
+#NTUST IR HW
+HW1:The Vector Space Model
+HW2:BM25
