@@ -1,4 +1,4 @@
-NTUST IR HW
+# NTUST IR HW 
 
-HW1:The Vector Space Model
+HW1:The Vector Space Model<br>
 HW2:BM25
